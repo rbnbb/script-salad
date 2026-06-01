@@ -1,0 +1,10 @@
+# Auth files — contain live Google session cookies / OAuth tokens. Never commit.
+browser.json
+oauth.json
+raw_headers.txt
+client.txt
+
+# Local env
+venv/
+__pycache__/
+*.pyc
